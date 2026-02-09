@@ -1,0 +1,21 @@
+# Frontend
+node_modules/
+.next/
+dist/
+build/
+.env.local
+.env.development.local
+
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/.env
+backend/app/core/gee-key.json
+
+# Editors
+.vscode/
+.idea/
+
+# Misc
+.DS_Store
+package-lock.json
